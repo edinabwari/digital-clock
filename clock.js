@@ -2,8 +2,6 @@
 window.onload = function (){
     printTime();
 };
-
-
 function printTime(){
     var d = new Date();
     var hours = d.getHours();
